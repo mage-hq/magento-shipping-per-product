@@ -1,5 +1,5 @@
 # magento-shipping-per-product
-Magento 2 Shipping Per Product allows charge individual shipping charges for each product in the order, option to charge the minimum, maximum or combined shipping rate of all products at the checkout cart. Help store owners can set individual flat shipping rates for the items being delivered despite the item being heavy, light, or fragile.
+Magento 2 Shipping Per Product extension enables you to charge different shipping rates for each product in the order. You can choose to charge the lowest, highest or total shipping rate of all products at the checkout cart. This helps you to set proper flat shipping rates for the products you ship, regardless of their weight, size or fragility
 
 Please go to https://magehq.com/shipping-per-product.html buy extension
 
